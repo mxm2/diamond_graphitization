@@ -3,7 +3,7 @@ Diamond particles are widely used as a strengthening phase in polymer and cerami
 
 Graphitization of the (111) surface of diamond:
 </br>
-<img src="https://github.com/mxm2/MoS2_hydrogen/blob/main/RSS.bmp" width=50% height=50%>
+<img src="https://github.com/mxm2/diamond_graphitization/blob/main/graphitization_111.tif" width=50% height=50%>
 
 References:
 [1]	J.M. Soler, E. Artacho, J.D. Gale, A. Garcia, J. Junquera, P. Ordejon, D. Sanchez-Portal, The SIESTA method for ab initio order-N materials simulation, J. Phys. Chem. 97 (1993) 8617–8624. doi:10.1088/0953-8984/14/11/302.
